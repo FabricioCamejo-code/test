@@ -16,5 +16,8 @@
     "url": "https://github.com/FabricioCamejo-code/test/issues"
   },
   "homepage": "https://github.com/FabricioCamejo-code/test#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
